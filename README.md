@@ -1,1 +1,1 @@
-# temp_repo about RL, alphazero by COC
+# temp_repo about RL, alphazero by teacher
